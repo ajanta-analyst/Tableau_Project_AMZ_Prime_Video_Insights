@@ -8,6 +8,8 @@ The project demonstrates how data storytelling and design can simplify complex s
 ## Dashboard  
 - **Dashboard (view/download):** https://drive.google.com/file/d/1-TnraoXVcAp9RzhoFEL2iexiO7SmZNqI/view?usp=sharing
 
+- - ![Dashboard Preview](?raw=true)
+
 ![Image](https://github.com/user-attachments/assets/your-amazon-prime-image-id)
 
 ---
