@@ -8,7 +8,7 @@ The project demonstrates how data storytelling and design can simplify complex s
 ## Dashboard  
 - **Dashboard (view/download):** https://drive.google.com/file/d/1-TnraoXVcAp9RzhoFEL2iexiO7SmZNqI/view?usp=sharing
 
-- - ![Dashboard Preview](?raw=true)
+- - ![Dashboard Preview](https://github.com/ajanta-analyst/Tableau_Project_AMZ_Prime_Video_Insights/blob/main/Screenshot%202025-09-19%20204954.png?raw=true)
 
 ![Image](https://github.com/user-attachments/assets/your-amazon-prime-image-id)
 
